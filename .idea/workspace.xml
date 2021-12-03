@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c90077a-05c6-4487-9230-53e2e5805828" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej1/gamma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej1/grayscale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej1/lenagray.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej2/eyebw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej2/gamma-grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej3/fractal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej3/onedollar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej4/cameraman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej5-6/brillo_contraste.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej5-6/city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej5-6/grayscale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej7/hist_eq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej7/low_contrast_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej7/low_contrast_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej7/low_contrast_4.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej7/low_contrast_ex.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej7/normal_contrast_ex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej8/crf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej8/office_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej8/office_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej8/office_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej8/office_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej8/office_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/assets/ej8/office_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/consigna/TP 4 Procesamiento en el dominio espacial 2021.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/ej1/.ipynb_checkpoints/ej1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/ej1/ej1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/ej2/.ipynb_checkpoints/ej2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/ej2/ej2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/ej3/ej3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/ej4-histograma/ej4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/ej5-6-brillo-contraste/ej5-6.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/ej7-ecualizacion-histograma/ej7.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/ej8-hdr/ej8.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/ej8-hdr/output/hdrDebevec.hdr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/ej8-hdr/output/res_debevec.hdr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/helpers/compare_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/helpers/imadjust.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP4/src/helpers/plot_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/barbara.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/bird.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/ej1/blur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/ej1/blur_noise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/ej4/car.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/ej4/motion_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/ej4/motion_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/ej4/motion_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/ej4/motion_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/ej4/motion_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/ej5/richardson.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/ej5/tikhonov.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/lena.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/assets/lenagray.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/consigna/TP5 -  Restauracion de Imagenes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/consigna/clown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/ej1/ej1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/ej2/ej2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/ej3/ej3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/ej4/ej4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/ej5/ej5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/ej6/ej6.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/helpers/add_noise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/helpers/blur_img.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/src/helpers/mse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/assets/bird.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/assets/dcraw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/assets/k-means_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/assets/nemo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/assets/ninia_y_rosa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/assets/sample.DNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/assets/sample.tiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/assets/sample_ready.tiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/consigna/TP color 2021.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/src/Ej1/Nemo.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/src/Ej1/bird.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/src/Ej1/k-means.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/src/Ej1/output/bird_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/src/Ej1/output/nemo_detected.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/src/Ej1/output/rose.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/src/Ej1/rose.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/src/Ej2/ej2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/src/Ej2/helper_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/assets/Broken_Text.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/assets/Lincoln from penny.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/assets/Noisy_Squares.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/assets/two_triangles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/consigna/TP Morfologia V1.00.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/Theory-Images/elementos_estructurales_thinning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/Theory-Images/hit-miss-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/Theory-Images/hit-miss-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/Theory-Images/hit-miss-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/Theory-Images/interfaz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/Theory-Images/interfaz_ej2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/Theory-Images/testing2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/Theory-Images/thickening.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/Theory-Images/thickening_results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/Theory-Images/thinning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/ejercicio1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/ejercicio2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/ejercicio3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/ejercicio4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/ejercicio5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/helper_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/src/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../../Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="21mjYvlwFmtevhaHcHJYjxTPrnq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Image-Processing" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="Image-Processing" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
