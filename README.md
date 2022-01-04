@@ -29,6 +29,6 @@ Para correr localmente las Notebooks correspondientes a los trabajos, primero ha
 git clone https://github.com/matifrancois/Image-Processing.git
 ```	
 
-Luego se puede correr cada notebook desde la interfaz de Jupyter o utilizando IDEs que permitan la visualización de código escrito en Jupyter Notebooks, como por ejemplo PyCharm o Visual Studio Code (con la extensión Jupyter Notebook)
+Luego se puede correr cada notebook desde la interfaz de Jupyter o utilizando IDEs que permitan la visualización de código escrito en Jupyter Notebooks, como por ejemplo PyCharm o Visual Studio Code (con la extensión Jupyter Notebook).
 
 En el caso de querer correr localmente las notebook se deben instalar las librerías correspondientes en cada caso.
